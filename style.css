@@ -1,0 +1,33 @@
+.center{
+    background-color: rgb(224, 241, 243);
+    width: 50%;
+    height: 50%;
+    padding: 3%;
+    border: 2px solid #dbdbed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:  translate(-50%, -50%);
+}
+body{
+    background-color: #ededed;
+}
+h1{
+    margin: 14px;
+    margin-top: 62px
+    ;
+}
+.input-div{
+    padding: 12px;
+}
+.input{
+    margin-left: 51px;
+    border-radius: 5px;
+    height: 20px;
+}
+#fahr{
+    margin-left: 27px;
+}
